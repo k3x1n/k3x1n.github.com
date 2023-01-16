@@ -1,4 +1,2 @@
-{expires_minute: 240, min_version: 100, pkg: '', time: '', content: '', ad: false, tip: [
-  {content: 'test tip1.', pos: 1},
-  {content: 'test tip2.', pos: 2},
-  {content: 'test tip3.', pos: 2}]}
+{expires_minute: 240, min_version: 100, pkg: '', title: 'New Version', content: 'content1', ad: false, 
+ tip: [{content: 'test tip1.', pos: 1}, {content: 'test tip2.', pos: 2}, {content: 'test tip3.', pos: 2}]}
